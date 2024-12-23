@@ -127,7 +127,7 @@ export default function ProjectDashboard() {
                     toast({
                         title: "Motion Detected!",
                         description: "A motion event has been detected.",
-                        variant: "default",
+                        variant: "destructive",
                     });
                 }
             }
